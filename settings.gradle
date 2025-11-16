@@ -1,0 +1,2 @@
+rootProject.name = "Sentinela GNR"
+include ':app'
