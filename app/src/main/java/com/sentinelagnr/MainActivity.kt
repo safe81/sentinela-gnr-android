@@ -22,8 +22,7 @@ class MainActivity : AppCompatActivity() {
     private val REQUEST_PERMISSIONS = 1
 
     // ***** PLUG IN YOUR REAL URL HERE *****
-    private val SENTINELA_URL = "https://SENTINELA_URL_AQUI"
-
+    private val SENTINELA_URL = "https://sentinela-opc-last-hope-371265780950.us-west1.run.app/"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
